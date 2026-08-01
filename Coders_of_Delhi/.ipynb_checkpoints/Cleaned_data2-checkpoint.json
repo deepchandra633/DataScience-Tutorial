@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Amit",
+            "freinds": [
+                2,
+                3
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Priya",
+            "freinds": [
+                1,
+                4
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sara",
+            "freinds": [
+                2
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Amit",
+            "freinds": [],
+            "liked_pages": []
+        }
+    ],
+    "pages": [
+        {
+            "id": 101,
+            "name": "Python Developers"
+        },
+        {
+            "id": 102,
+            "name": "Data Sceince Enthusiasts"
+        },
+        {
+            "id": 103,
+            "name": "AI & Ml Community"
+        },
+        {
+            "id": 104,
+            "name": "Web Dev Hub"
+        },
+        {
+            "id": 104,
+            "name": "Web Development"
+        }
+    ]
+}

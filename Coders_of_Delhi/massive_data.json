@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "freinds": [2, 3, 5],
+      "liked_pages": [101]
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "freinds": [1, 4, 6],
+      "liked_pages": [102]
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "freinds": [1, 5, 7],
+      "liked_pages": [101, 103]
+    },
+    {
+      "id": 4,
+      "name": "Sara",
+      "freinds": [2, 8],
+      "liked_pages": [104]
+    },
+    {
+      "id": 5,
+      "name": "Neha",
+      "freinds": [1, 3, 6, 9],
+      "liked_pages": [101, 105]
+    },
+    {
+      "id": 6,
+      "name": "Rohan",
+      "freinds": [2, 5, 10],
+      "liked_pages": [102, 106]
+    },
+    {
+      "id": 7,
+      "name": "Ankit",
+      "freinds": [3, 8, 11],
+      "liked_pages": [103, 107]
+    },
+    {
+      "id": 8,
+      "name": "Pooja",
+      "freinds": [4, 7, 12],
+      "liked_pages": [104, 108]
+    },
+    {
+      "id": 9,
+      "name": "Karan",
+      "freinds": [5, 10, 13],
+      "liked_pages": [105, 109]
+    },
+    {
+      "id": 10,
+      "name": "Sneha",
+      "freinds": [6, 9, 14],
+      "liked_pages": [106, 110]
+    },
+    {
+      "id": 11,
+      "name": "Vikas",
+      "freinds": [7, 12, 15],
+      "liked_pages": [107, 111]
+    },
+    {
+      "id": 12,
+      "name": "Riya",
+      "freinds": [8, 11, 13],
+      "liked_pages": [108, 112]
+    },
+    {
+      "id": 13,
+      "name": "Arjun",
+      "freinds": [9, 12, 14],
+      "liked_pages": [109, 113]
+    },
+    {
+      "id": 14,
+      "name": "Meera",
+      "freinds": [10, 13, 15],
+      "liked_pages": [110, 114]
+    },
+    {
+      "id": 15,
+      "name": "Simran",
+      "freinds": [11, 14],
+      "liked_pages": [111, 115]
+    }
+  ],
+  "pages": [
+    {
+      "id": 101,
+      "name": "Python Developers"
+    },
+    {
+      "id": 102,
+      "name": "Data Science Enthusiasts"
+    },
+    {
+      "id": 103,
+      "name": "AI & ML Community"
+    },
+    {
+      "id": 104,
+      "name": "Web Dev Hub"
+    },
+    {
+      "id": 105,
+      "name": "Cloud Computing"
+    },
+    {
+      "id": 106,
+      "name": "Java Developers"
+    },
+    {
+      "id": 107,
+      "name": "Cyber Security"
+    },
+    {
+      "id": 108,
+      "name": "Machine Learning"
+    },
+    {
+      "id": 109,
+      "name": "DevOps Community"
+    },
+    {
+      "id": 110,
+      "name": "SQL Experts"
+    },
+    {
+      "id": 111,
+      "name": "React Developers"
+    },
+    {
+      "id": 112,
+      "name": "Node.js Hub"
+    },
+    {
+      "id": 113,
+      "name": "Flutter Developers"
+    },
+    {
+      "id": 114,
+      "name": "Linux Users"
+    },
+    {
+      "id": 115,
+      "name": "Blockchain Community"
+    }
+  ]
+}
